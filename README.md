@@ -1,4 +1,6 @@
-# go-properties
+# go-properties 
+
+[![status](https://img.shields.io/badge/status-in%20development-green)](#development)
 
 Minimal project structure for building [Go](https://golang.org) application.
 
@@ -25,7 +27,7 @@ git checkout main
 git pull origin main
 git checkout -b <your_branch>
 ```
-Hint: please take a look at [Branch Convention](#branch-convention)
+Hint: please take a look at [Branch Convention](#development)
 
 If you add other dependencies, run:
 ```bash
