@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/cymon1997/go-template/internal/http/middleware"
-	iRouter "github.com/cymon1997/go-template/internal/http/router"
+	"github.com/cymon1997/go-properties/internal/http/middleware"
+	iRouter "github.com/cymon1997/go-properties/internal/http/router"
 )
 
 var (

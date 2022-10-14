@@ -3,7 +3,7 @@ package provider
 import (
 	"sync"
 
-	"github.com/cymon1997/go-template/internal/config"
+	"github.com/cymon1997/go-properties/internal/config"
 )
 
 var (

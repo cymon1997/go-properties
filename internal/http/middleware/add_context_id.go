@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/cymon1997/go-template/internal/context"
+	"github.com/cymon1997/go-properties/internal/context"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 )

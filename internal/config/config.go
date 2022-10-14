@@ -3,9 +3,9 @@ package config
 import (
 	"log"
 
-	"github.com/cymon1997/go-template/pkg/utils"
+	"github.com/cymon1997/go-properties/pkg/utils"
 
-	"github.com/cymon1997/go-template/pkg/config"
+	"github.com/cymon1997/go-properties/pkg/config"
 )
 
 const (

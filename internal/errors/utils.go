@@ -3,7 +3,7 @@ package errors
 import (
 	"net/http"
 
-	iHttp "github.com/cymon1997/go-template/internal/http"
+	iHttp "github.com/cymon1997/go-properties/internal/http"
 )
 
 func GetStatus(err error) int {

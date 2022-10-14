@@ -1,4 +1,4 @@
-module github.com/cymon1997/go-template
+module github.com/cymon1997/go-properties
 
 go 1.18
 

@@ -3,7 +3,7 @@ package usecase
 import (
 	"context"
 
-	"github.com/cymon1997/go-template/core/inbound/http/spec"
+	"github.com/cymon1997/go-properties/core/inbound/http/spec"
 )
 
 type Usecase interface {

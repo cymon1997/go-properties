@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/cymon1997/go-template/internal/errors"
-	iHttp "github.com/cymon1997/go-template/internal/http"
+	"github.com/cymon1997/go-properties/internal/errors"
+	iHttp "github.com/cymon1997/go-properties/internal/http"
 	"github.com/gin-gonic/gin"
 )
 

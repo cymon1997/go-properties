@@ -1,8 +1,8 @@
 package http
 
 import (
-	"github.com/cymon1997/go-template/core/usecase"
-	"github.com/cymon1997/go-template/internal/http/middleware"
+	"github.com/cymon1997/go-properties/core/usecase"
+	"github.com/cymon1997/go-properties/internal/http/middleware"
 	"github.com/gin-gonic/gin"
 )
 

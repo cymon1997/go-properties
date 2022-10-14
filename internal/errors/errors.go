@@ -3,7 +3,7 @@ package errors
 import (
 	"fmt"
 
-	"github.com/cymon1997/go-template/internal/http"
+	"github.com/cymon1997/go-properties/internal/http"
 )
 
 type Err struct {

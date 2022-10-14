@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/cymon1997/go-template/provider"
+	"github.com/cymon1997/go-properties/provider"
 )
 
 func main() {

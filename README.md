@@ -1,4 +1,4 @@
-# go-template
+# go-properties
 
 Minimal project structure for building [Go](https://golang.org) application.
 
@@ -6,13 +6,13 @@ Minimal project structure for building [Go](https://golang.org) application.
 
 - Clean `main.go` initialization
 - Provider based dependency injection (using singleton)
-- Config files replaceable with ENV variables 
-- Core layer separation: inbound, outbound, usecase 
+- Config files replaceable with ENV variables
+- Core layer separation: inbound, outbound, usecase
 
 ## Installation
 
 ```bash
-go get -u github.com/cymon1997/go-template
+go get -u github.com/cymon1997/go-properties
 ```
 
 ## Contribute
@@ -21,15 +21,15 @@ go get -u github.com/cymon1997/go-template
 
 Checkout from latest `main` branch
 ```bash
-git checkout main 
-git pull origin main 
+git checkout main
+git pull origin main
 git checkout -b <your_branch>
 ```
 Hint: please take a look at [Branch Convention](#branch-convention)
 
 If you add other dependencies, run:
 ```bash
-make update-dep 
+make update-dep
 ```
 
 Before raise a Pull Request, please make sure you already suffice the tests of your code.
